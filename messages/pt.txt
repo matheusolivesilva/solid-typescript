@@ -1,0 +1,1 @@
+O total foi ${total}, o de taxas foi ${taxes}. Obrigado por sua compra!
