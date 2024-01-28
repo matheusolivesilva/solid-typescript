@@ -2,20 +2,20 @@
 This project is a simple POC using e-commerce as a base (with Order and Item classes) and applying SOLID concepts over it. How it's just a study project to improve my SOLID knowledge, there isn't a server, framework or console as entrypoint to run it, there's only tests with Jest to validade the business logic and ensure that the 5 principles are being correctly applied.
 
 # Table of Contents
-- [Requirements](#-requirements)
-- [Features](#-features)
-- [How to Run?](#-how-to-run)
-    - [Using Docker](#-using-docker)
-    - [In Your Local Machine](#-in-your-local-machine)
-- [SOLID Principles](#-solid-principles)
+- [📝 Requirements](#-requirements)
+- [💡 Features](#-features)
+- [🚀 How to Run?](#-how-to-run)
+    - [🐋 Using Docker](#-using-docker)
+    - [💻 Your Local Machine](#-your-local-machine)
+- [📝 SOLID Principles](#-solid-principles)
     - [What is SOLID and why apply these principles?](#what-is-solid-and-why-apply-these-principles)     
     - [SRP - Single Responsability Principle](#srp---single-responsability-principle)
     - [OCP - Open-Closed Principle](#ocp---open-closed-principle)
     - [LSP - Liskov Substitution Principle](#lsp---liskov-substitution-principle)
     - [ISP - Interface Segregation Principle](#isp---interface-segregation-principle)
     - [DIP - Dependency Inversion Principle](#dip---dependency-inversion-principle)
-- [Made With](#%EF%B8%8F-made-with)
-- [Author](#-author)
+- [⚙️ Made With](#%EF%B8%8F-made-with)
+- [🧑🏻‍💻 Author](#-author)
 
 ## 📝 Requirements
 
@@ -87,7 +87,7 @@ docker compose up
 ```
 The docker console will be attached to your terminal, in case you wanna access the bash to run some command (or erase the node_modules or dist folders).
 
-### 👨🏻‍💻 In your local machine:
+### 💻 Your local machine:
 Run the command bellow, the tests will be attached to your terminal for you to have a real time feedback about the success of the tests:
 ```bash
 npm test
