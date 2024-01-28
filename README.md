@@ -7,13 +7,14 @@ This project is a simple POC using e-commerce as a base (with Order and Item cla
 - [How to Run?](#-how-to-run)
     - [Using Docker](#-using-docker)
     - [In Your Local Machine](#-in-your-local-machine)
-- [SOLID Principles](#solid)
-    - [Single Responsibility Principle (SRP)](#single-responsibility-principle-srp)
-    - [Open-Closed Principle (OCP)](#open-closed-principle-ocp)
-    - [Liskov Substitution Principle (LSP)](#liskov-substitution-principle-lsp)
-    - [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
-    - [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
-- [Made With](#-made-with)
+- [SOLID Principles](#-solid-principles)
+    - [What is SOLID and why apply these principles?](#what-is-solid-and-why-apply-these-principles)     
+    - [SRP - Single Responsability Principle](#srp---single-responsability-principle)
+    - [OCP - Open-Closed Principle](#ocp---open-closed-principle)
+    - [LSP - Liskov Substitution Principle](#lsp---liskov-substitution-principle)
+    - [ISP - Interface Segregation Principle](#isp---interface-segregation-principle)
+    - [DIP - Dependency Inversion Principle](#dip---dependency-inversion-principle)
+- [Made With](#%EF%B8%8F-made-with)
 - [Author](#-author)
 
 ## 📝 Requirements
@@ -92,7 +93,7 @@ Run the command bellow, the tests will be attached to your terminal for you to h
 npm test
 ```
 
-## SOLID
+## 📝 SOLID Principles
 ### What is SOLID and why apply these principles?
 SOLID is an mnemonic acronym for 5 principles to be implemented in a software in order to make it more maintainable, reusable, flexible and understandable.
 
