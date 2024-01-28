@@ -2,20 +2,20 @@
 This project is a simple POC using e-commerce as a base (with Order and Item classes) and applying SOLID concepts over it. How it's just a study project to improve my SOLID knowledge, there isn't a server, framework or console as entrypoint to run it, there's only tests with Jest to validade the business logic and ensure that the 5 principles are being correctly applied.
 
 # Table of Contents
-1. [Requirements](#requirements)
-2. [Features](#features)
-3. [Class Diagram](#class-diagram)
-4. [How to Run?](#how-to-run)
-    4.1 [Using Docker](#using-docker)
-    4.2 [In Your Local Machine](#in-your-local-machine)
-5. [SOLID Principles](#solid)
-    5.1 [Single Responsibility Principle (SRP)](#single-responsibility-principle-srp)
-    5.2 [Open-Closed Principle (OCP)](#open-closed-principle-ocp)
-    5.3 [Liskov Substitution Principle (LSP)](#liskov-substitution-principle-lsp)
-    5.4 [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
-    5.5 [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
-6. [Made With](#made-with)
-7. [Author](#author)
+- [Requirements](#requirements)
+- [Features](#features)
+- [Class Diagram](#class-diagram)
+- [How to Run?](#how-to-run)
+    - [Using Docker](#using-docker)
+    - [In Your Local Machine](#in-your-local-machine)
+- [SOLID Principles](#solid)
+    - [Single Responsibility Principle (SRP)](#single-responsibility-principle-srp)
+    - [Open-Closed Principle (OCP)](#open-closed-principle-ocp)
+    - [Liskov Substitution Principle (LSP)](#liskov-substitution-principle-lsp)
+    - [Interface Segregation Principle (ISP)](#interface-segregation-principle-isp)
+    - [Dependency Inversion Principle (DIP)](#dependency-inversion-principle-dip)
+- [Made With](#made-with)
+- [Author](#author)
 
 ## 📝 Requirements
 
