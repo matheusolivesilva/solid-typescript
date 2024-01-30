@@ -82,15 +82,15 @@ You have 2 options to run this project, as it has no common entrypoint such as H
 
 ### 🐋 Using Docker:
 Simply run:
-```bash
-docker compose up
+```console
+foo@bar:~$ docker-compose up
 ```
 The docker console will be attached to your terminal, in case you wanna access the bash to run some command (or erase the node_modules or dist folders).
 
 ### 💻 Your local machine:
 Run the command bellow, the tests will be attached to your terminal for you to have a real time feedback about the success of the tests:
-```bash
-npm test
+```console
+foo@bar:~$ npm test
 ```
 
 ## 📝 SOLID Principles
